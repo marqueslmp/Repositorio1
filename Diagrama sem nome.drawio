@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T17:45:58.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="tRI-8ucUbcrxoSsKHji8" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T18:15:30.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="djEWIfHFYtNBJzeqAUhF" version="20.4.2" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="900" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -406,15 +406,76 @@
             <mxPoint x="1529.5" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UmW8kJtrCGWKn92JYN5o-29" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UmW8kJtrCGWKn92JYN5o-26">
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-29" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UmW8kJtrCGWKn92JYN5o-26" target="UmW8kJtrCGWKn92JYN5o-32">
           <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="1444.9999999999995" y="944.5" as="sourcePoint" />
-            <mxPoint x="1362.81" y="944.5" as="targetPoint" />
+            <mxPoint x="1390" y="945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UmW8kJtrCGWKn92JYN5o-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Web Rede&lt;/b&gt;&lt;/font&gt;&lt;br&gt;ERRO. Registro do lance é deletado da nova tela do projeto de Remoção." style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="1452.5" y="1040" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Web Rede&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Mensagem de erro do projeto de readequação é apresentada para o usuário." style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1248.1200000000001" y="1050" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-32" value="Projeto de readequação conciliou do com sucesso com o SAP?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="895" width="131.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-33" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UmW8kJtrCGWKn92JYN5o-32">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1249.9999999999995" y="944.5" as="sourcePoint" />
+            <mxPoint x="1167.81" y="944.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-34" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UmW8kJtrCGWKn92JYN5o-32" target="UmW8kJtrCGWKn92JYN5o-31">
+          <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1310.0049999999997" y="1020" as="sourcePoint" />
+            <mxPoint x="1326" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-35" value="Erro apresentado é sobre o Nº e Sub. Nº do imobilizado?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1263.4399999999998" y="1160" width="124.38" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UmW8kJtrCGWKn92JYN5o-31" target="UmW8kJtrCGWKn92JYN5o-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1090" as="sourcePoint" />
+            <mxPoint x="1326" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-37" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1420.005" y="1205" as="sourcePoint" />
+            <mxPoint x="1420" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-38" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UmW8kJtrCGWKn92JYN5o-35" target="UmW8kJtrCGWKn92JYN5o-39">
+          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1242.2" y="1240.5" as="sourcePoint" />
+            <mxPoint x="1180" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Web Rede&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Usuário corrige a informação do Nº e sub. Nº do imobilizado." style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1180" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Web Rede&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Projeto de readequação é retramitado automaticamente para uma nova tentativa de conciliação com o SAP." style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1037.5" y="1060" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UmW8kJtrCGWKn92JYN5o-39" target="UmW8kJtrCGWKn92JYN5o-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1010" as="sourcePoint" />
+            <mxPoint x="1280" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UmW8kJtrCGWKn92JYN5o-40" target="UmW8kJtrCGWKn92JYN5o-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1010" as="sourcePoint" />
+            <mxPoint x="1280" y="960" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
