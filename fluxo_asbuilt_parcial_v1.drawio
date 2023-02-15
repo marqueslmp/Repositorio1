@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T14:50:21.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="xvAIsS9M2L5zrcn-Rx5s" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T18:11:57.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="Qr9ke6qgIbZr8wtdzqxN" version="20.7.4" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1244" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -39,43 +39,16 @@
             <mxPoint x="457.5" y="321" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V8c99-lEmDVWt42Kv_we-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Web Rede&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Usuário seleciona o lance a ser removido direto no mapa" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="313.5" width="140" height="55" as="geometry" />
+        <mxCell id="V8c99-lEmDVWt42Kv_we-14" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;GeoSAP&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Automaticamente o serviço do GeoSAP verifica que tem um novo asbuilt parcial na fila para envio e gera as linhas para o SAP ler." style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="890" y="400" width="193.44" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="UmW8kJtrCGWKn92JYN5o-1" value="Lance está com as informações de utilização preenchidas?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="855" y="298.5" width="125" height="70" as="geometry" />
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-5" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Geosite Web Rede&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff3333&quot;&gt;NOVA TELA DE REMOÇÃO&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Usuário clica no botão de envio do asbuilt parcial." style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="911.56" y="278.5" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UmW8kJtrCGWKn92JYN5o-4" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UmW8kJtrCGWKn92JYN5o-1" target="V8c99-lEmDVWt42Kv_we-14" edge="1">
-          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="970" y="286" as="sourcePoint" />
-            <mxPoint x="850" y="340" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-8" value="SAP retorno o LOG do asbuilt parcial?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="926.87" y="511" width="117.97" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UmW8kJtrCGWKn92JYN5o-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Desktop&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Usuário completa o cadastro das utilizações do lance" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="840" y="395" width="140" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="UmW8kJtrCGWKn92JYN5o-6" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UmW8kJtrCGWKn92JYN5o-1" target="UmW8kJtrCGWKn92JYN5o-5" edge="1">
-          <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="706" y="330" as="sourcePoint" />
-            <mxPoint x="706" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UmW8kJtrCGWKn92JYN5o-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UmW8kJtrCGWKn92JYN5o-5" target="V8c99-lEmDVWt42Kv_we-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1070" y="421" as="sourcePoint" />
-            <mxPoint x="1000" y="301" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1000" y="389" />
-              <mxPoint x="1000" y="286" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UmW8kJtrCGWKn92JYN5o-8" value="Lance está imobilizado?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1268.75" y="361" width="122.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UmW8kJtrCGWKn92JYN5o-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UmW8kJtrCGWKn92JYN5o-12" target="UmW8kJtrCGWKn92JYN5o-8" edge="1">
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="V8c99-lEmDVWt42Kv_we-14" target="UmW8kJtrCGWKn92JYN5o-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="531" as="sourcePoint" />
             <mxPoint x="840" y="481" as="targetPoint" />
@@ -89,13 +62,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UmW8kJtrCGWKn92JYN5o-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Web Rede&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Lance é registrado na nova tela do projeto de Remoção" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="258.5" width="140" height="55" as="geometry" />
+          <mxGeometry x="1310" y="258.5" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="UmW8kJtrCGWKn92JYN5o-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Web Rede&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Automaticamente o Geosite tenta fazer a adequação com os pontos genéricos disponíveis na estação contábil do projeto de Remoção" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="451" width="160" height="70" as="geometry" />
+          <mxGeometry x="1215.63" y="490" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UmW8kJtrCGWKn92JYN5o-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Web Rede&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Automaticamente o Geosite tenta criar um projeto de transferência de ponto genérico para adequar o lance" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1007.18" y="581" width="170" height="65" as="geometry" />
+          <mxGeometry x="1020" y="631" width="170" height="65" as="geometry" />
         </mxCell>
         <mxCell id="UmW8kJtrCGWKn92JYN5o-15" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Web Rede&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Automaticamente o Geosite tenta criar um projeto de Readquação com o Nº e Sub. Nº a serem informados pelo usuário" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="760" y="845" width="155" height="60" as="geometry" />
@@ -103,7 +76,7 @@
         <mxCell id="UmW8kJtrCGWKn92JYN5o-16" value="Tentativa de adequação foi bem sucedida?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="1284.38" y="573.5" width="91.25" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UmW8kJtrCGWKn92JYN5o-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="V8c99-lEmDVWt42Kv_we-14" target="UmW8kJtrCGWKn92JYN5o-12" edge="1">
+        <mxCell id="UmW8kJtrCGWKn92JYN5o-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UmW8kJtrCGWKn92JYN5o-5" target="V8c99-lEmDVWt42Kv_we-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="441" as="sourcePoint" />
             <mxPoint x="1080" y="391" as="targetPoint" />
@@ -274,16 +247,6 @@
             <mxPoint x="1170" y="751" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UmW8kJtrCGWKn92JYN5o-50" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.631;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UmW8kJtrCGWKn92JYN5o-48" target="UmW8kJtrCGWKn92JYN5o-13" edge="1">
-          <mxGeometry x="-0.6667" y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="1452.1899999999996" y="766" as="sourcePoint" />
-            <mxPoint x="1220" y="501" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="786" y="495" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UmW8kJtrCGWKn92JYN5o-51" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Web Rede&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Mensagem de erro do projeto de transferência de ponto genérico é apresentada para o usuário." style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="460.0000000000001" y="761" width="155" height="60" as="geometry" />
         </mxCell>
@@ -329,12 +292,6 @@
         <mxCell id="tH0Oy9MxxvEVRa18XON7-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="tH0Oy9MxxvEVRa18XON7-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="457.5" y="391" as="sourcePoint" />
-            <mxPoint x="1050" y="511" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tH0Oy9MxxvEVRa18XON7-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="tH0Oy9MxxvEVRa18XON7-1" target="UmW8kJtrCGWKn92JYN5o-13" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="561" as="sourcePoint" />
             <mxPoint x="1050" y="511" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -407,6 +364,12 @@
         </mxCell>
         <mxCell id="dE9oy5LDZZbgmntyn6jU-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Geosite Web Rede&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;u&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;NOVA TELA DE REMOÇÃO&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;Os lances selecionados são carregados numa outra tela para que o usuário possa informar a metragem que será baixada parcialmente para cada lance." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="273.5" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dE9oy5LDZZbgmntyn6jU-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dE9oy5LDZZbgmntyn6jU-6" target="UmW8kJtrCGWKn92JYN5o-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="285" as="sourcePoint" />
+            <mxPoint x="1140" y="385" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
